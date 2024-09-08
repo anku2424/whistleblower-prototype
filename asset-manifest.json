@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whistleblower-prototype/static/css/main.2d47d1e9.css",
+    "main.js": "/whistleblower-prototype/static/js/main.254e8960.js",
+    "static/js/453.ddf8bfd4.chunk.js": "/whistleblower-prototype/static/js/453.ddf8bfd4.chunk.js",
+    "index.html": "/whistleblower-prototype/index.html",
+    "main.2d47d1e9.css.map": "/whistleblower-prototype/static/css/main.2d47d1e9.css.map",
+    "main.254e8960.js.map": "/whistleblower-prototype/static/js/main.254e8960.js.map",
+    "453.ddf8bfd4.chunk.js.map": "/whistleblower-prototype/static/js/453.ddf8bfd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d47d1e9.css",
+    "static/js/main.254e8960.js"
+  ]
+}
