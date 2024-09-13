@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { useCallback } from "react";
 import { useState } from "react";
 
-const backend_url = process.env.REACT_APP_BACKEND_URL;
+const backend_url = process.env.REACT_APP_BACKEND_URL || "http://localhost:5000";
 
 const dummyData = {
     docs: [
