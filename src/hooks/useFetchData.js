@@ -2,6 +2,8 @@ import { useEffect } from "react";
 import { useCallback } from "react";
 import { useState } from "react";
 
+const backend_url = process.env.REACT_APP_BACKEND_URL;
+
 const dummyData = {
     docs: [
         {
@@ -49,7 +51,7 @@ export const useFetchData = (formData, shouldFetch) => {
         if (!shouldFetch) return;
         setIsLoading(true);
         try {
-            const backend_url = process.env.BACKEND_URL;
+            // const backend_url = process.env.BACKEND_URL;
             console.log("backend_url", backend_url);
             // const response = await fetch("https://api.example.com/data");
             // const data = await response.json();
