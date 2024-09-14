@@ -11,7 +11,6 @@ const SelectionView = () => {
         register,
         handleSubmit,
         formState: { errors },
-        reset,
     } = useForm();
     const [shouldFetch, setShouldFetch] = React.useState(false);
     const [formData, setFormData] = React.useState({
