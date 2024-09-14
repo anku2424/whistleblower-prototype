@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/whistleblower-prototype/static/css/main.7648dd08.css",
-    "main.js": "/whistleblower-prototype/static/js/main.fcc26916.js",
+    "main.js": "/whistleblower-prototype/static/js/main.149e77e7.js",
     "static/js/453.ddf8bfd4.chunk.js": "/whistleblower-prototype/static/js/453.ddf8bfd4.chunk.js",
     "index.html": "/whistleblower-prototype/index.html",
     "main.7648dd08.css.map": "/whistleblower-prototype/static/css/main.7648dd08.css.map",
-    "main.fcc26916.js.map": "/whistleblower-prototype/static/js/main.fcc26916.js.map",
+    "main.149e77e7.js.map": "/whistleblower-prototype/static/js/main.149e77e7.js.map",
     "453.ddf8bfd4.chunk.js.map": "/whistleblower-prototype/static/js/453.ddf8bfd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7648dd08.css",
-    "static/js/main.fcc26916.js"
+    "static/js/main.149e77e7.js"
   ]
 }
